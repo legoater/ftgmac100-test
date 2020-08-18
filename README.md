@@ -2,7 +2,7 @@
 
 Creates bogus network frames to challenge your ARM HW or the QEMU Aspeed model.
 
-Based an idea of Ziming Zhang <ezrakiez@gmail.com>
+Based on an idea of Ziming Zhang <ezrakiez@gmail.com>
 
 ## Building
 
